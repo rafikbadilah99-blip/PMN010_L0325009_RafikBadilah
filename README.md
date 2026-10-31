@@ -219,5 +219,4 @@ Dengan demikian, pada permasalahan dan parameter yang digunakan dalam praktikum 
 
 **Praktikum 10 – Metode Numerik**  
 **Rafik Badilah | L0325009**  
-**Informatika PSDKU'2025**
-**Universitas Sebelas Maret**
+**Informatika PSDKU'2025** - **Universitas Sebelas Maret**
