@@ -14,6 +14,7 @@ Program dibuat menggunakan bahasa pemrograman **GNU Octave** untuk menghitung pe
 | Nama | Rafik Badilah |
 | NIM | L0325009 |
 | Mata Kuliah | Metode Numerik |
+| Semester | 3 (A) |
 | Praktikum | 10 |
 | Materi | Persamaan Diferensial Biasa (PDB) |
 | Bahasa Pemrograman | GNU Octave |
@@ -218,4 +219,5 @@ Dengan demikian, pada permasalahan dan parameter yang digunakan dalam praktikum 
 
 **Praktikum 10 – Metode Numerik**  
 **Rafik Badilah | L0325009**  
+**Informatika PSDKU'2025**
 Universitas Sebelas Maret
