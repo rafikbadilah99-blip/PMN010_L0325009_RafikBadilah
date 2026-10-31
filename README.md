@@ -132,6 +132,30 @@ Program dibagi menjadi empat bagian utama:
 
 ---
 
+## 💻 Dokumentasi Kode Program
+---
+
+Berikut merupakan dokumentasi implementasi kode program untuk setiap metode numerik menggunakan GNU Octave.
+
+### 1. Implementasi Metode Euler
+
+![Kode Program Metode Euler](screenshots/kode-euler.png)
+
+### 2. Implementasi Metode Heun
+
+![Kode Program Metode Heun](screenshots/kode-heun.png)
+
+### 3. Implementasi Metode Runge-Kutta Orde 4
+
+![Kode Program Metode Runge-Kutta Orde 4](screenshots/kode-runge4.png)
+
+### 4. Program Utama (Main)
+
+![Kode Program Main](screenshots/kode-main.png)
+
+
+---
+
 ## ⚙️ Cara Menjalankan Program
 
 Pastikan GNU Octave sudah terpasang pada komputer.
