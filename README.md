@@ -7,7 +7,7 @@ Program dibuat menggunakan bahasa pemrograman **GNU Octave** untuk menghitung pe
 
 ---
 
-## 👤 Identitas Praktikan
+## 📌 Informasi Praktikum
 
 | Keterangan | Informasi |
 |---|---|
