@@ -52,17 +52,17 @@ Metode Heun merupakan pengembangan dari Metode Euler yang menggunakan pendekatan
 
 Rumus:
 
-\[
+$$
 k_1=f(x_i,y_i)
-\]
+$$
 
-\[
+$$
 k_2=f(x_i+h,y_i+hk_1)
-\]
+$$
 
-\[
+$$
 y_{i+1}=y_i+\frac{h}{2}(k_1+k_2)
-\]
+$$
 
 ### 3. Metode Runge-Kutta Orde 4 (RK4)
 
@@ -70,25 +70,25 @@ Metode Runge-Kutta Orde 4 merupakan metode numerik yang menggunakan empat nilai 
 
 Rumus:
 
-\[
+$$
 k_1=f(x_i,y_i)
-\]
+$$
 
-\[
+$$
 k_2=f(x_i+\frac{h}{2},y_i+\frac{hk_1}{2})
-\]
+$$
 
-\[
+$$
 k_3=f(x_i+\frac{h}{2},y_i+\frac{hk_2}{2})
-\]
+$$
 
-\[
+$$
 k_4=f(x_i+h,y_i+hk_3)
-\]
+$$
 
-\[
+$$
 y_{i+1}=y_i+\frac{h}{6}(k_1+2k_2+2k_3+k_4)
-\]
+$$
 
 ---
 
@@ -96,9 +96,9 @@ y_{i+1}=y_i+\frac{h}{6}(k_1+2k_2+2k_3+k_4)
 
 Persamaan diferensial yang digunakan dalam praktikum:
 
-\[
+$$
 \frac{dy}{dx}=\frac{4x^3-2x+1}{2+y}
-\]
+$$
 
 Dengan kondisi awal dan parameter sebagai berikut:
 
@@ -113,9 +113,9 @@ Dengan kondisi awal dan parameter sebagai berikut:
 
 Solusi eksak yang digunakan sebagai pembanding:
 
-\[
+$$
 y(2)=\sqrt{37}-2
-\]
+$$
 
 ---
 
@@ -161,9 +161,9 @@ Berdasarkan hasil eksekusi program menggunakan GNU Octave dengan jumlah iterasi 
 
 **Solusi eksak:**
 
-\[
+$$
 y(2)=\sqrt{37}-2=4.0827625303
-\]
+$$
 
 **Perbandingan hasil ketiga metode:**
 
@@ -191,15 +191,15 @@ Untuk mengetahui tingkat ketelitian masing-masing metode, dilakukan perhitungan 
 
 ### 1. Galat Absolut
 
-\[
+$$
 E_a=|y_{\text{aproksimasi}}-y_{\text{eksak}}|
-\]
+$$
 
 ### 2. Galat Relatif
 
-\[
+$$
 E_r=\frac{E_a}{|y_{\text{eksak}}|}
-\]
+$$
 
 Nilai galat digunakan sebagai indikator untuk membandingkan tingkat ketelitian hasil pendekatan dari setiap metode numerik.
 
