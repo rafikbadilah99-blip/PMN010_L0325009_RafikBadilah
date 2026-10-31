@@ -42,11 +42,9 @@ Metode Euler merupakan metode numerik paling sederhana untuk menyelesaikan persa
 
 Rumus:
 
-\[
 $$
 y_{i+1}=y_i+h f(x_i,y_i)
 $$
-\]
 
 ### 2. Metode Heun
 
